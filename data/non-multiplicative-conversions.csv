@@ -1,0 +1,9 @@
+kind,conversion,formula,note
+affine (temperature),Fahrenheit to Celsius,°C = (°F − 32) × 5/9,32 °F and 0 °C coincide; the scales cross at −40°
+affine (temperature),Celsius to Fahrenheit,°F = °C × 9/5 + 32,"A pure factor gives 0 °C → 0 °F, wrong by 32 degrees"
+affine (temperature),Celsius to Kelvin,K = °C + 273.15,"Same step size, offset only — no multiplication at all"
+affine (temperature),Kelvin to Fahrenheit,°F = (K − 273.15) × 9/5 + 32,"Two operations: an offset, then a factor"
+radian multiple (angle),Degree -> radian,rad = 180/π x number of °,π/180 rad exactly (irrational in decimal)
+radian multiple (angle),Gradian -> radian,rad = 200/π x number of gon,π/200 rad exactly (irrational in decimal)
+radian multiple (angle),Radian -> radian,rad = 1/π x number of rad,"BIPM SI Brochure (9th ed., 2019) — SI derived unit"
+inverse (fuel economy),mpg <-> L/100km,L/100km = 235.214583 / mpg,"Fuel economy is the one everyday conversion that is not a multiplication at all. Miles per gallon and litres per 100 km are reciprocal quantities — one is distance over volume, the other volume over distance — so improving either by a fixed amount does not improve the other by a fixed amount."

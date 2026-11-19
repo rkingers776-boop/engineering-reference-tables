@@ -1,0 +1,174 @@
+{
+  "generated_by": "EnginStack _gh_export.py",
+  "conventions": {
+    "inch_gauge": "exact weight division, 4 dp, ROUND_HALF_DOWN",
+    "inch_drill": "n/64 exact fraction, 4 dp, ROUND_HALF_UP",
+    "mm": "computed from the defining value, not from the rounded inch value",
+    "note": "mm values on other sites often differ because they are computed from a rounded inch value. Both columns are provided where that matters."
+  },
+  "datasets": [
+    {
+      "file": "data/unit-conversion-factors.csv",
+      "rows": 98,
+      "columns": [
+        "category",
+        "unit_name",
+        "symbol",
+        "factor_fraction",
+        "factor_decimal",
+        "status",
+        "si_base_unit",
+        "source"
+      ],
+      "bytes": 9444,
+      "sha256": "37e355b9080cd1dc51c8ebf8a96b997bb8c8b7d1b95410508e64e89c2705d59d",
+      "source_page": "unit-conversion-chart",
+      "note": "Exact multiplicative factors to the SI base unit of each category. factor_fraction is the exact rational; factor_decimal is its decimal expansion."
+    },
+    {
+      "file": "data/non-multiplicative-conversions.csv",
+      "rows": 8,
+      "columns": [
+        "kind",
+        "conversion",
+        "formula",
+        "note"
+      ],
+      "bytes": 1225,
+      "sha256": "312ee0fedfc5cd2434cf7e2e1936499cf2bfadc7af02cb6221e74173ab99d10b",
+      "source_page": "unit-conversion-chart",
+      "note": "Conversions that are not a single multiplication. Applying a factor to these gives a wrong answer, which is the most common unit-conversion error."
+    },
+    {
+      "file": "data/sheet-metal-gauge.csv",
+      "rows": 114,
+      "columns": [
+        "material",
+        "gauge",
+        "nominal_oz_ft2",
+        "base_steel_oz_ft2",
+        "zinc_oz_ft2",
+        "thickness_in",
+        "thickness_mm",
+        "defining_rule"
+      ],
+      "bytes": 9370,
+      "sha256": "c86a75cac34ced9732780fba5035f7403e1257723ec022f7b51fa71557ea0cd0",
+      "source_page": "sheet-metal-gauge-chart",
+      "note": "Gauge numbers are not a universal thickness. Each material has its own scale; the same gauge is a different thickness in each row."
+    },
+    {
+      "file": "data/drill-bits-fractional.csv",
+      "rows": 64,
+      "columns": [
+        "size_fraction",
+        "inch",
+        "mm_exact_basis",
+        "mm_from_rounded_inch"
+      ],
+      "bytes": 1700,
+      "sha256": "cd4f4a6e50066e2e4566801d495d1bef23e5093f038e0b7a239de5e4f489f39c",
+      "source_page": "drill-bit-size-chart",
+      "note": "Fractional sizes are exact n/64 in. mm_exact_basis is computed from the exact fraction; mm_from_rounded_inch is computed from the 4-decimal display value and is the source of the two different mm values found on other sites."
+    },
+    {
+      "file": "data/drill-bits-number.csv",
+      "rows": 80,
+      "columns": [
+        "number",
+        "inch",
+        "mm"
+      ],
+      "bytes": 1286,
+      "sha256": "01e05ea974e65b4b9c67c67b0ca9477779382d3d8854e8633c3070776fc251b2",
+      "source_page": "drill-bit-size-chart",
+      "note": "ANSI/ASME B94.11M number sizes, #1 (largest) to #80 (smallest)."
+    },
+    {
+      "file": "data/drill-bits-letter.csv",
+      "rows": 26,
+      "columns": [
+        "letter",
+        "inch",
+        "mm"
+      ],
+      "bytes": 408,
+      "sha256": "b5f1f85cf9b100dd44b5f6e0fb0794bfdb84a0f9fdbbfa9af0ee1b1612acbc3e",
+      "source_page": "drill-bit-size-chart",
+      "note": "ANSI/ASME B94.11M letter sizes, A (smallest) to Z (largest)."
+    },
+    {
+      "file": "data/drill-bits-metric.csv",
+      "rows": 121,
+      "columns": [
+        "mm",
+        "inch"
+      ],
+      "bytes": 1370,
+      "sha256": "74e497568300f69a185ddec002242f20de934a6573d59016e6290188f1fbffb9",
+      "source_page": "drill-bit-size-chart",
+      "note": "ISO 235 nominal metric sizes: 1.0 to 10.0 mm in 0.1 mm steps, then 10.5 to 25.0 mm in 0.5 mm steps."
+    },
+    {
+      "file": "data/awg-wire-gauge.csv",
+      "rows": 44,
+      "columns": [
+        "awg",
+        "diameter_in_12sf",
+        "diameter_in",
+        "diameter_mm_exact_basis",
+        "diameter_mm_from_rounded_inch",
+        "area_mm2",
+        "circular_mils"
+      ],
+      "bytes": 2313,
+      "sha256": "d41e12925b36a5ec80ab9b46bf66c68100da4bd5421249d12d1dc972b1837af0",
+      "source_page": "awg-wire-gauge-chart",
+      "note": "Derived from the defining formula d = 0.005 x 92^((36-n)/39) in, not copied from a printed table. area_mm2 and circular_mils are second-order quantities."
+    },
+    {
+      "file": "data/pipe-schedule-40-80.csv",
+      "rows": 23,
+      "columns": [
+        "nps",
+        "dn",
+        "od_in",
+        "od_mm",
+        "sch40_wall_in",
+        "sch40_wall_mm",
+        "sch40_id_in",
+        "sch40_id_mm",
+        "sch40_kg_per_m",
+        "sch40_lb_per_ft",
+        "sch80_wall_in",
+        "sch80_wall_mm",
+        "sch80_id_in",
+        "sch80_id_mm",
+        "sch80_kg_per_m",
+        "sch80_lb_per_ft"
+      ],
+      "bytes": 2269,
+      "sha256": "8367e56c1e6bbe44b7d2ecb593dac6d25bd700b0d9097fefd9eaa1badac4b05d",
+      "source_page": "nominal-pipe-size-chart",
+      "note": "ASME B36.10M. Outside diameter and wall thickness are the defining values; bore and weight are derived. NPS 22 is omitted because no source publishes its Schedule 40/80 wall thickness."
+    },
+    {
+      "file": "data/pipe-wall-classes.csv",
+      "rows": 7,
+      "columns": [
+        "nps",
+        "od_in",
+        "schedule_40",
+        "standard",
+        "schedule_80",
+        "extra_strong",
+        "sch40_lb_per_ft",
+        "std_lb_per_ft"
+      ],
+      "bytes": 411,
+      "sha256": "35a1c24cb2c3b6f3ecdc845db49b417fe0f10a2d1f0898aa5cab548241b73dd9",
+      "source_page": "nominal-pipe-size-chart",
+      "note": "STD and XS are wall-thickness classes, not schedules. From NPS 12 STD stops thickening while Schedule 40 keeps going, so the two diverge."
+    }
+  ]
+}

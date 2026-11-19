@@ -1,0 +1,115 @@
+material,gauge,nominal_oz_ft2,base_steel_oz_ft2,zinc_oz_ft2,thickness_in,thickness_mm,defining_rule
+carbon_steel,3,160,,,0.2391,6.073,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,4,150,,,0.2242,5.695,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,5,140,,,0.2092,5.314,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,6,130,,,0.1943,4.935,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,7,120,,,0.1793,4.554,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,8,110,,,0.1644,4.176,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,9,100,,,0.1495,3.797,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,10,90,,,0.1345,3.416,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,11,80,,,0.1196,3.038,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,12,70,,,0.1046,2.657,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,13,60,,,0.0897,2.278,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,14,50,,,0.0747,1.897,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,15,45,,,0.0673,1.709,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,16,40,,,0.0598,1.519,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,17,36,,,0.0538,1.367,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,18,32,,,0.0478,1.214,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,19,28,,,0.0418,1.062,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,20,24,,,0.0359,0.912,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,21,22,,,0.0329,0.836,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,22,20,,,0.0299,0.759,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,23,18,,,0.0269,0.683,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,24,16,,,0.0239,0.607,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,25,14,,,0.0209,0.531,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,26,12,,,0.0179,0.455,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,27,11,,,0.0164,0.417,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,28,10,,,0.0149,0.378,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,29,9,,,0.0135,0.343,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,30,8,,,0.0120,0.305,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,31,7,,,0.0105,0.267,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,32,6.5,,,0.0097,0.246,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,33,6,,,0.0090,0.229,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,34,5.5,,,0.0082,0.208,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,35,5,,,0.0075,0.191,"MSG nominal weight, 41.82 lb/ft2 per inch"
+carbon_steel,36,4.5,,,0.0067,0.170,"MSG nominal weight, 41.82 lb/ft2 per inch"
+galvanized_steel,8,112.5,110,2.5,0.1681,4.270,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,9,102.5,100,2.5,0.1532,3.891,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,10,92.5,90,2.5,0.1382,3.510,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,11,82.5,80,2.5,0.1233,3.132,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,12,72.5,70,2.5,0.1084,2.753,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,13,62.5,60,2.5,0.0934,2.372,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,14,52.5,50,2.5,0.0785,1.994,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,15,47.5,45,2.5,0.0710,1.803,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,16,42.5,40,2.5,0.0635,1.613,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,17,38.5,36,2.5,0.0575,1.461,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,18,34.5,32,2.5,0.0516,1.311,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,19,30.5,28,2.5,0.0456,1.158,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,20,26.5,24,2.5,0.0396,1.006,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,21,24.5,22,2.5,0.0366,0.930,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,22,22.5,20,2.5,0.0336,0.853,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,23,20.5,18,2.5,0.0306,0.777,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,24,18.5,16,2.5,0.0276,0.701,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,25,16.5,14,2.5,0.0247,0.627,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,26,14.5,12,2.5,0.0217,0.551,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,27,13.5,11,2.5,0.0202,0.513,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,28,12.5,10,2.5,0.0187,0.475,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,29,11.5,9,2.5,0.0172,0.437,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+galvanized_steel,30,10.5,8,2.5,0.0157,0.399,base MSG weight + 2.5 oz/ft2 zinc (1.25 per side)
+stainless_steel,3,,,,0.2500,6.350,"16/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,4,,,,0.2344,5.954,"15/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,5,,,,0.2187,5.555,"14/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,6,,,,0.2031,5.159,"13/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,7,,,,0.1875,4.763,"12/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,8,,,,0.1719,4.366,"11/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,9,,,,0.1562,3.967,"10/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,10,,,,0.1406,3.571,"9/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,11,,,,0.1250,3.175,"8/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,12,,,,0.1094,2.779,"7/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,13,,,,0.0937,2.380,"6/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,14,,,,0.0781,1.984,"5/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,15,,,,0.0703,1.786,"4/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,16,,,,0.0625,1.588,"4/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,17,,,,0.0562,1.427,"3/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,18,,,,0.0500,1.270,"3/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,19,,,,0.0437,1.110,"2/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,20,,,,0.0375,0.953,"2/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,21,,,,0.0344,0.874,"2/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,22,,,,0.0312,0.792,"2/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,23,,,,0.0281,0.714,"1/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,24,,,,0.0250,0.635,"1/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,25,,,,0.0219,0.556,"1/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,26,,,,0.0187,0.475,"1/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,27,,,,0.0172,0.437,"1/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,28,,,,0.0156,0.396,"1/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,29,,,,0.0141,0.358,"0/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,30,,,,0.0125,0.318,"0/64 in (US Standard Gauge, 1893 ladder)"
+stainless_steel,31,,,,0.0109,0.277,"0/64 in (US Standard Gauge, 1893 ladder)"
+aluminum_brass_copper_bns,8,,,,0.1285,3.264,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,9,,,,0.1144,2.906,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,10,,,,0.1019,2.588,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,11,,,,0.0907,2.304,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,12,,,,0.0808,2.052,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,13,,,,0.0720,1.829,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,14,,,,0.0641,1.628,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,15,,,,0.0571,1.450,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,16,,,,0.0508,1.290,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,17,,,,0.0453,1.151,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,18,,,,0.0403,1.024,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,19,,,,0.0359,0.912,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,20,,,,0.0320,0.813,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,21,,,,0.0285,0.724,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,22,,,,0.0253,0.643,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,23,,,,0.0226,0.574,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,24,,,,0.0201,0.511,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,25,,,,0.0179,0.455,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,26,,,,0.0159,0.404,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,27,,,,0.0142,0.361,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,28,,,,0.0126,0.320,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,29,,,,0.0113,0.287,B&S: d = 0.005 x 92^((36-n)/39) in
+aluminum_brass_copper_bns,30,,,,0.0100,0.254,B&S: d = 0.005 x 92^((36-n)/39) in
+copper_oz,12,12,,,0.0162,0.411,oz/ft2 at 555 lb/ft3 copper density
+copper_oz,16,16,,,0.0216,0.549,oz/ft2 at 555 lb/ft3 copper density
+copper_oz,20,20,,,0.0270,0.686,oz/ft2 at 555 lb/ft3 copper density
+copper_oz,24,24,,,0.0324,0.823,oz/ft2 at 555 lb/ft3 copper density
+copper_oz,32,32,,,0.0432,1.097,oz/ft2 at 555 lb/ft3 copper density

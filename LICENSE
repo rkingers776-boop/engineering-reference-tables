@@ -1,0 +1,25 @@
+Engineering reference tables
+Copyright (c) 2026 EnginStack
+
+The CSV data files in this repository are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt this data for any purpose, including commercial
+use, provided you give appropriate credit, link to the license, and indicate if
+changes were made.
+
+Suggested attribution:
+
+    Engineering reference tables by EnginStack, licensed CC BY 4.0.
+    https://github.com/rkingers776-boop/engineering-reference-tables
+
+A link back to the source page listed in manifest.json is enough for "appropriate
+credit" in most cases, and it is what makes the attribution useful to a reader who
+wants to check the derivation.
+
+The values are derived from published standards and are provided as-is, without
+warranty of any kind. They are a reference for checking work, not a substitute for
+the standards themselves. See README.md for provenance per dataset.
